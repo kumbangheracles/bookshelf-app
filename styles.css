@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Raleway, sans-serif;
+}
+
+section{
+    padding: 1rem;
+    margin: 1rem;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+#bookForm div{
+    margin-block: 10px;
+}
+#bookForm div input{
+    padding: 5px;
+    outline: none;
+    border-radius: none;
+    width: 200px;
+}
